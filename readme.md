@@ -1,6 +1,9 @@
 # Project Name Generator 
 
 A project name generator written in rust, it's the most basic name generator one can find.
+The word list's are kinda scifi, so is your project names.
+
+If you do find a better sauce for scifi names, please do send
 
 ## How to use :
 

@@ -57,7 +57,7 @@ fn main() {
             _ => panic!("AHHH, Something went wrong"),
         };
         println!(
-            "Project generator came up with : {}",
+            "NameGen came up with : {}",
             format!("{}-{}", selected_adjective, selected_noun)
         );
     }
